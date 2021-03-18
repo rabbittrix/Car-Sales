@@ -1,6 +1,10 @@
 {
   "name": "frontend-carsales",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "author": {
+    "name": "Roberto de Souza",
+    "email": "rabbittrix@hotmail.com"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -11,7 +15,7 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/animations": "^11.2.5",
+    "@angular/animations": "^11.2.6",
     "@angular/common": "~11.2.1",
     "@angular/compiler": "~11.2.1",
     "@angular/core": "~11.2.1",
@@ -19,6 +23,7 @@
     "@angular/platform-browser": "~11.2.1",
     "@angular/platform-browser-dynamic": "~11.2.1",
     "@angular/router": "~11.2.1",
+    "@fortawesome/fontawesome-free": "^5.15.3",
     "primeflex": "^2.0.0",
     "primeicons": "^4.1.0",
     "primeng": "^11.3.1",
